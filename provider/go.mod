@@ -1,4 +1,4 @@
-module github.com/pulumi/pulumi-xyz/provider
+module github.com/CodeiaLLC/pulumi-neon-provider
 
 go 1.18
 
@@ -7,6 +7,7 @@ replace (
 )
 
 require (
+	github.com/kislerdm/terraform-provider-neon v0.2.2
 	github.com/pulumi/pulumi-terraform-bridge/v3 v3.47.2
 	github.com/pulumi/pulumi/sdk/v3 v3.67.1
 )

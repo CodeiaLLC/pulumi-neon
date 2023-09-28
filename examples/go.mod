@@ -1,3 +1,3 @@
-module github.com/pulumi/pulumi-xyz/examples
+module github.com/CodeiaLLC/pulumi-neon-provider/examples
 
 go 1.16

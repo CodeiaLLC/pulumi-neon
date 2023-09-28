@@ -1,6 +1,6 @@
 # Foo Resource Provider
 
-The Foo Resource Provider lets you manage [Foo](http://example.com) resources.
+The Foo Resource Provider lets you manage [Neon.tech](https://neon.tech/) resources.
 
 ## Installing
 
@@ -48,8 +48,7 @@ dotnet add package Pulumi.Foo
 
 The following configuration points are available for the `foo` provider:
 
-- `foo:apiKey` (environment: `FOO_API_KEY`) - the API key for `foo`
-- `foo:region` (environment: `FOO_REGION`) - the region in which to deploy resources
+- `neon:apiKey` (environment: `NEON_API_KEY`) - the API key
 
 ## Reference
 
